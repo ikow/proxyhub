@@ -1,0 +1,1 @@
+Proxyhub will collect and scan proxy from Internet. Those proxies will be stored in mongondb. It supply api to check whether the proxy is down or not and get usable proxy.
